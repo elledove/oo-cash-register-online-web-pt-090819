@@ -40,6 +40,7 @@ class CashRegister
     end
   end
 
+  
   def items=(list)
     @items = list
   end
